@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirBegic1
 - Im software engineering student. 
-- 👀 I’m interested in Web development, mobile apps, embeded sistems. 
+- 👀 I’m interested in Web development, mobile apps.
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me? 
 
