@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AmirBegic1
-- I'm software engineer. 
-- 👀 I’m Full stack web developer
 - 🌱 Always expanding my knowledge
 - 📫 How to reach me?
 - Instagram: amir.begic_
